@@ -1,3 +1,7 @@
+ /*
+ Code by Pablo Urcid
+ */
+ 
 provider "vsphere" {
     user = "YOUT-USER"
     password = "YOUR-PWD"
